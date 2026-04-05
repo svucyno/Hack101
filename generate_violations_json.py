@@ -1,5 +1,5 @@
 """
-adding generate_violations_json.py  —  OFFLINE BATCH MODE  (CORRECTED v3)
+generate_violations_json.py  —  OFFLINE BATCH MODE  (CORRECTED v3)
 ====================================================================
 IMPORTANT — READ BEFORE RUNNING:
   If you see "Model has 2 classes" warning, the OLD model is still loaded.
